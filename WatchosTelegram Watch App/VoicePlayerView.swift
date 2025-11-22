@@ -1,13 +1,11 @@
+// This file is part of the WatchOS Telegram Client.
+// Copyright (C) 2025 DsgnrFH
+// Licensed under GPL-3.0.
 //
 //  VoicePlayerView.swift
 //  WatchosTelegram
 //
 //  Created by Oleksandr Barbashyn on 16.11.25.
-//
-
-//
-//  VoicePlayerView.swift
-//  WatchosTelegram
 //
 
 import SwiftUI
