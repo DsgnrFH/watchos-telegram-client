@@ -1,3 +1,6 @@
+// This file is part of the WatchOS Telegram Client.
+// Copyright (C) 2025 DsgnrFH
+// Licensed under GPL-3.0.
 //
 //  FullScreenPhotoView.swift
 //  WatchosTelegram
