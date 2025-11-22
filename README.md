@@ -7,10 +7,14 @@ A lightweight watchOS Telegram client that demonstrates a custom-built API usage
 
 ## Features
 - SwiftUI-first UI for watchOS
+![Demo](assets/gif/chats_scroll.gif)
+![Demo](assets/gif/chats_open.gif)
 - Async/await networking with `URLSession`
 - Simple models decoded from JSON
 - Full-screen photo view with zoom/pan and the Crown integration via a `ZoomableImageView` (composed usage)
+![Demo](assets/gif/image_view.gif)
 - Voice message playback using `AVAudioPlayer`
+![Demo](assets/gif/voice_note.gif)
 - Auto-refresh for new messages and a simple "load more" mechanism
 
 This project is intentionally minimal and avoids external dependencies. Concurrency is handled with Swift Concurrency (async/await) and periodic refresh via Combine's timer publisher bridged into `.task`.
