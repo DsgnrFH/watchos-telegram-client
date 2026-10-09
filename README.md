@@ -3,6 +3,9 @@
 ## Overview
 A lightweight watchOS Telegram client that demonstrates a custom-built API usage on Apple Watch using SwiftUI and async/await networking. The app fetches chats and messages from a simple HTTP API, supports sending text messages, displays photos (with full-screen zoom and Crown support), and plays voice messages.
 
+> [!IMPORTANT]
+> This might be considered deprecated, because Telegram released an official Telegram application for WatchOS.
+
 > Note: This repository is a client-only. You must configure API endpoint and token to connect to your own backend that has the compatible endpoints.
 
 ## Features
